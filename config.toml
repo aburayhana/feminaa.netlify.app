@@ -1,4 +1,4 @@
-baseURL = "https://femina.netlify.app"
+baseURL = "https://feminaa.netlify.app"
 languageCode = "en-us"
 title = "Resep Femina"
 theme = "z"
@@ -41,7 +41,7 @@ theme = "z"
 
 [author]
     name = "Clara Bernadette"
-    homepage = "https://femina.netlify.app"
+    homepage = "https://feminaa.netlify.app"
     bio = "True Food Lover"
     image = "https://i.imgur.com/qNQv8nK.jpg"
 
